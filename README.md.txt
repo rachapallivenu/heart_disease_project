@@ -46,6 +46,7 @@ This project is a machine learning web application built with Streamlit that pre
 
 ## 📚 References
 
+- [dataset and code from kaggle ]
 - [UCI Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/heart+Disease)
 - [Streamlit Documentation](https://docs.streamlit.io/)
 
