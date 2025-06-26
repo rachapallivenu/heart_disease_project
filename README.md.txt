@@ -4,7 +4,7 @@ This project is a machine learning web application built with Streamlit that pre
 
 ## 🚀 Features
 
-- Predicts heart disease risk using multiple ML models (Random Forest, SVM, KNN, Decision Tree, etc.)
+- Predicts heart disease risk using multiple ML models (SVM, KNN, Decision Tree)
 - Interactive web interface for user input
 - Visualizes model performance and risk factors
 - Provides health recommendations and a high-risk management guide
